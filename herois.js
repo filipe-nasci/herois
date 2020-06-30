@@ -1,3 +1,5 @@
+// API permite saber mais sobre todos os herois da marvel e DC comics pesquisando pelo ID
+
 const rs = require("readline-sync")
 const axios = require("axios")
 const fs = require("fs")
